@@ -1,0 +1,5 @@
+Flask
+huggingface-hub
+llama-cpp-python
+transformers
+pytorch
